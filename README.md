@@ -35,13 +35,13 @@ Technologies Used
 
 How to Run
 
-Install Required Package
+ 1.Install Required Package
 
-pip install scapy
+ 2.pip install scapy
 
-Run the Program
+ 3.Run the Program
 
-python network_packet_analyzer.py
+ 4.python network_packet_analyzer.py
 
 Example Output
 
