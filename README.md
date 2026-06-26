@@ -1,3 +1,4 @@
+PRODIGY_CS_05 - Network Packet Analyzer
 Description
 
 The Network Packet Analyzer is a Python-based cybersecurity tool designed to capture and analyze network packets in real time. It provides detailed information about network traffic, including source and destination IP addresses, protocols, ports, and packet payloads. This project helps users understand how data travels across networks and is intended for educational and ethical learning purposes.
